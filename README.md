@@ -4,7 +4,7 @@
             Junxing(J.C.) Chen
 --------------------------------
 
-Create your own voice assistant using OpenAI's advanced language processing technology and IBM Watson Embeddable AI. Your assistant will be able to understand and respond to your questions and requests in real time, using voice utilizing text-to-speech and speech-to-text capabilities. By the end of the guided project, you'll have a fully functional AI-powered voice assistant to help you with whatever questions you have, anytime, anywhere.
+Mass production of millions of unique anime characters is nearly impossible for the best painter, but it is easy using machine learning method! In the guided project, you will have the chance to build machine learning models and produce the anime characters for yourself. After then, you will also handle the machine learning method called Deep Convolutional Generative adversarial networks (DCGANs), which is used for the mass anime production.
 -------------------------------
 # Mentee Info!
 ## Name : Nur Azizah
@@ -13,9 +13,9 @@ Create your own voice assistant using OpenAI's advanced language processing tech
 
 -------------------------------
 # Skill Learn 
-- Text-to-Speech, 
-- Chatbots, 
-- Speech-To-Text, 
-- LLM, 
+- Python, 
+- Data Science, 
+- Deep Learning,
+- Keras, 
 - Generative AI, 
-- Python
+- LLM
